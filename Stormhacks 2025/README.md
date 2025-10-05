@@ -24,7 +24,7 @@ SwiftUI app that:
 ## App Configuration Instructions
 
 1. **Server + Firebase keys**
-   In `ContentView.swift` (or `APIClient` init), set:
+   In `ContentView.swift`, set:
 
    ```swift
    let api = APIClient(
