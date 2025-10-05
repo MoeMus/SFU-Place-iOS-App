@@ -33,7 +33,7 @@ SwiftUI app that:
    )
    ```
 
-   Replace `"<FIREBASE_WEB_API_KEY>"` and use valid test credentials when tapping **Sign In**.
+   Replace `"<FIREBASE_WEB_API_KEY>"` and use valid credentials when signing in.
 
 2. **Camera permission (Info.plist)**
    Add **Privacy – Camera Usage Description**:
