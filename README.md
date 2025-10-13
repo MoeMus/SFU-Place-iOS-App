@@ -4,7 +4,7 @@ SwiftUI app that:
 
 * Authenticates with **Firebase** to obtain an ID token
 * Talks to the backend at **[https://sfu-place-web-server.vercel.app](https://sfu-place-web-server.vercel.app)**
-* (TODO) Embeds a **Unity** AR scene with a transparent SwiftUI overlay
+* Embeds a **Unity** AR scene with a transparent SwiftUI overlay
 
 ---
 
